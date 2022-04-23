@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @NandoDeveloper  
 - 👀 I’m interested in  Desenvolvimento web
-- 🌱 I’m currently learning  PHP, MVC, POO
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning  PHP, MVC, POO, Laravel and ReacJs
 
 <!---
 NandoDeveloper/NandoDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
