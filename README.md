@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NandoDeveloper  
 - 👀 I’m interested in  Desenvolvimento web
-- 🌱 I’m currently learning  Nodejs , .net c# 
+- 🌱 I’m currently learning  PHP, MVC, POO
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
