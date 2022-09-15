@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fernando Henrique 
-- 👀 I’m interested in  Desenvolvimento web
+- 👀 I’m interested in  Web development
 - 🌱 I’m currently learning about .Net Core, Entity Framework, SQL Server, ReactJS
 
 <!---
